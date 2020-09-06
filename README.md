@@ -1,5 +1,5 @@
 # Hi there I'm Pratik & This is [LinkFree](https://pratik23rj.github.io/) 👋
-This site was built using 
+
 
 ## Linktr.ee 
  It is a service that creates a page with a list of links that you can link to in your Instagram profile. You have to purchase the premium version to remove their branding and use your own and customize the design aesthetics more. 
