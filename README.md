@@ -23,7 +23,7 @@
 
 ![twitter](https://user-images.githubusercontent.com/30311763/105450315-2fb75980-5ca0-11eb-9f79-387ced1b5145.png)
 ![adoption](https://user-images.githubusercontent.com/30311763/105450432-73aa5e80-5ca0-11eb-8ca3-f1525e18c9ab.png)
-
+![pratik](https://user-images.githubusercontent.com/30311763/105450696-0f3bcf00-5ca1-11eb-8989-5c6a73525d2d.png)
 
 
 
